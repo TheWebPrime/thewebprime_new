@@ -1,7 +1,5 @@
 'use client';
 
-import Link from 'next/link';
-import MotionWrapper from './MotionWrapper';
 import { motion } from 'framer-motion';
 import Particles from 'react-tsparticles';
 

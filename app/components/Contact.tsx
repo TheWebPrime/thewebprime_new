@@ -13,7 +13,7 @@ export default function Contact() {
           viewport={{ once: true }}
           className="text-3xl font-bold text-gray-900"
         >
-          Let’s Build Your Website
+          Let&apos;s build something
         </motion.h2>
 
         <motion.p
