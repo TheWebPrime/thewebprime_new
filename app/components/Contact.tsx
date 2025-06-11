@@ -13,7 +13,7 @@ export default function Contact() {
           viewport={{ once: true }}
           className="text-3xl font-bold text-gray-900"
         >
-          Let&apos;s build something
+          Let&apos;s build something great together
         </motion.h2>
 
         <motion.p
@@ -22,7 +22,7 @@ export default function Contact() {
           transition={{ delay: 0.1 }}
           className="mt-4 text-gray-600 text-lg"
         >
-          Reach out via WhatsApp or leave your message below. We'll get back within 24 hours.
+          Reach out via WhatsApp or leave your message below. We&apos;ll get back within 24 hours.
         </motion.p>
 
         <div className="mt-10 flex flex-col sm:flex-row justify-center gap-4">
